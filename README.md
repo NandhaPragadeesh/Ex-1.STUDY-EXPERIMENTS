@@ -3,7 +3,7 @@
 To become familiar with microwave components and instruments available in the laboratory.
 
 ## APPARATUS USED:
-Klystron power supply, Gunn power supply, VSWR meter, power meter, Slotted section, Frequency/wave meter, RF Generator, Vector Network Analyzer.
+Klystron power supply, Gunn power supply, VSWR meter, power meter, Slotted section, Frequency/wave meter, RF Generator, Vector Network Analyzer. 
 
 ## OBJECTIVES:
 Note relevant Technical specifications of the instruments.
